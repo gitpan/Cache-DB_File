@@ -1,0 +1,6 @@
+Revision history for Perl extension Cache::DB_File.
+
+0.01  Wed Aug  7 11:15:08 2002
+	- original version; created by h2xs 1.22 with options
+		-XA -n Cache::DB_File
+
